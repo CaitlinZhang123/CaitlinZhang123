@@ -5,13 +5,13 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Caitlin Zhang.<br>
-        Currently learning Python / Tableau / SQL.<br>
+        I am Caitlin Zhang.<br>
+        I am currently learning Python / Tableau / SQL.<br>
         Currently interested in data mining, big data management and data visualization.<br>
     </i><br>
 </p>
 
-### Languages
+### Languages & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
