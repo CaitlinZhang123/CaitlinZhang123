@@ -6,7 +6,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I am Caitlin Zhang.<br>
-        I am currently learning Python / Tableau / SQL.<br>
+        I am currently working as a data analyst.<br>
         Interested in data mining, big data management and data visualization.<br>
     </i><br>
 </p>
